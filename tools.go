@@ -69,7 +69,7 @@ func updateConfig() {
 // fetch, save and then set next wallpaper
 func nextWall() {
 	// fetch wallpaper from unsplash
-	response, err := http.Get(sUnsplash + sz + sKeywords)
+	response, err := http.Get(sUnsplash + sKeywords + sz)
 	checkErr("unable to fetch wallpaper : check internet connection", err)
 	defer response.Body.Close()
 

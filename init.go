@@ -37,7 +37,7 @@ func init() {
 
 	// check if config.csv exists
 	integrityCheck := exists(fconfig)
-	println("config  exists ?", integrityCheck)
+	println("config exists ?", integrityCheck)
 
 	if !integrityCheck { // if the file doesn't exist
 		// create file

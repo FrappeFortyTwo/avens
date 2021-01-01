@@ -13,8 +13,8 @@ const (
 	ficon   = "assets/logo.png"
 	fwall   = "assets/desktop.png"
 	// source
-	sUnsplash = "https://source.unsplash.com/"
-	sKeywords = "/?wallpaper,desktop"
+	sUnsplash = "https://source.unsplash.com/collection/"
+	sKeywords = "76468395/"
 )
 
 var (
