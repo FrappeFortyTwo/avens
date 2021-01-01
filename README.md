@@ -14,7 +14,11 @@ Here is a screencap of avens in action :
 - Option to save current wallpaper.
 - Verification & restoration : restores missing files ( if any ).
 
-Supported desktop environments : XFCE, CINNAMON, MATE & GNOME
+Supported desktop environments : 
+* XFCE
+* CINNAMON
+* MATE
+* GNOME
 
 ## License
 
@@ -29,9 +33,9 @@ The application is madeup of a single binary so to get it running :
 
 That's all !
 
-You can add it to startup for a more seamless experience. 
+You can add it to startup for a more seamless experience.
 
-If something doesn't work, delete all files except the binary and run it. This should recreate all necessary files with defaults. 
+If something doesn't work, delete all files except the binary and run it. This should recreate all necessary files with defaults. If the issue persists, you can report it here or reach out to me [here](https://twitter.com/frappefortytwo).
 
 See [releases](github.com/FrappeFortyTwo/avens/releases) for available packages.
 
@@ -50,15 +54,3 @@ The executable creates all necessary files ( icons, config, saved images ).
 
 * Wallpaper Source : [unsplash](https://unsplash.com/)
 * Tray Implementation : [systray](https://github.com/getlantern/systray)
-
-## From the Author
-
-Hi there ! This is my first open source app so bugs might appear here and there. Don't worry ! I intend to support it long term ( hopefully lifetime ).
-I will make better versions of this app with less bugs, and will add new features. The wallpaper source is my private collection at unsplash which I update frequently.
-
-Upcoming Features/Tasks :
-* Auto-start toggle option
-* Option to set custom delay
-* Attribution watermark 
-
-You can reach me [here](https://twitter.com/frappefortytwo)
