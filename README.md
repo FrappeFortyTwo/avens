@@ -3,7 +3,7 @@ Avens is a desktop application for dynamic wallpapers. It's written in Go and ta
 
 Here is a screencap of avens in action :
 
-![Avens screencap](/README/avens.png)
+![Avens screencap](/README/avens.gif)
 
 ## Features
 
